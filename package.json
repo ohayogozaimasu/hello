@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "ohayo",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ohayogozaimasu/hello.git"
+    "url": "git+https://github.com/ohayogozaimasu/ohayo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ohayogozaimasu/hello/issues"
+    "url": "https://github.com/ohayogozaimasu/ohayo/issues"
   },
-  "homepage": "https://github.com/ohayogozaimasu/hello#readme",
+  "homepage": "https://github.com/ohayogozaimasu/ohayo#readme",
   "dependencies": {
     "bluebird": "^2.9.34"
   },
