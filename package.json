@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ohayogozaimasu/hello/issues"
   },
-  "homepage": "https://github.com/ohayogozaimasu/hello#readme"
+  "homepage": "https://github.com/ohayogozaimasu/hello#readme",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.3"
+  }
 }
